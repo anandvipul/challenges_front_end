@@ -1,0 +1,73 @@
+body {
+    color: black;
+    background-image: url(../images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-color: #E0E8FF;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+div > * {
+    vertical-align: middle;
+}
+
+.custom {
+    width: 400px;
+    height: 600px;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    text-align: center;
+    margin: auto;
+}
+
+
+img.main-img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 15px 15px 0px 0px;
+}
+
+.order-summary {
+    margin: 10px 10px;
+}
+
+.order-des {
+    margin: 40px;
+    line-height: 1.5;
+}
+
+.plan {
+    background-color: #F8F9FE;
+    border-radius: 10px;
+    width: 75%;
+    margin: auto;
+    
+}
+
+.plan-img {
+    display: inline-block;
+    margin: 5px;
+    
+}
+
+.plan-p {
+    display: inline-block;
+    width: 100px;
+    text-align: left;
+    margin: 5px 30px 5px 0px;
+}
+
+.button {
+    background-color: #766CF1; /* Green */
+    border-radius: 10px;
+    color: white;
+    padding: 15px 83px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px;
+  }
+
+
+
